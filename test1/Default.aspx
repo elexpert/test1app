@@ -36,6 +36,15 @@
                 <a class="btn btn-default" href="http://www.utc.edu">the UTC site &raquo;</a>
             </p>
         </div>
+        <div class="col-md-4">
+            <h2>Are you playing with Git again?  </h2>
+            <p>
+                yes
+            </p>
+            <p>
+                <a class="btn btn-default" href="http://www.utm.edu">the UTM site &raquo;</a>
+            </p>
+        </div>
 
 
 </div>
