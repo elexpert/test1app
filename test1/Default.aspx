@@ -27,5 +27,16 @@
                 <a class="btn btn-default" href="http://www.uthsc.edu">the UTHSC site &raquo;</a>
             </p>
         </div>
+        <div class="col-md-4">
+            <h2>Is this project only for working with Git from Visual Studio 2013?  </h2>
+            <p>
+                you got that right
+            </p>
+            <p>
+                <a class="btn btn-default" href="http://www.utc.edu">the UTC site &raquo;</a>
+            </p>
+        </div>
 
+
+</div>
 </asp:Content>
